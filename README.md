@@ -6,9 +6,8 @@ The assignment involves analyzing weather patterns in cities relative to their p
 ## Purpose
 The assignment aims to showcase Python coding skills in accessing and visualizing weather data, uncovering patterns between latitude and weather variables. Additionally, it demonstrates practical applications by using the gathered data in VacationPy to plan vacations, helping users find optimal destinations based on desired weather conditions. The integrated approach provides both insights into weather patterns and real-world utility for travel planning.
 
-![image](https://github.com/Mitajoshi/Python-Data-Visualization/assets/142932546/913bf8ff-9be6-49ce-9d28-a3545f176863)
-
-![image](https://github.com/Mitajoshi/Python-Data-Visualization/assets/142932546/1558c091-ace8-4326-b346-201ec4422a1f)
+<img width="569" alt="image" src="https://github.com/Mitajoshi/Python-Data-Visualization/assets/142932546/e65b9df4-cb04-4141-a867-fc85ee5f6ea1">
+<img width="562" alt="image" src="https://github.com/Mitajoshi/Python-Data-Visualization/assets/142932546/cf55e943-4350-4139-bef2-a14632052e83">
 
 
 ## Instructions
